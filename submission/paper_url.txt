@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://mananaslamdev.github.io/ML-Stuff/paper
